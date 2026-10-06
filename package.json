@@ -1,0 +1,17 @@
+{
+  "name": "hexone-bot",
+  "version": "1.23.0",
+  "description": "Lynzz X Argaa | Someone X Hadexv",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "starting.js",
+  "scripts": {
+    "start": "echo \"TUNGGU HINGGA BOT MENGIRIMKAN PERINTAH DI CONSOLE!!\" && node starting.js"
+  },
+  "dependencies": {
+    "axios": "1.19.0",
+    "@qwerty-xcv/baileys": "github:XazepysK/wbails",
+    "pino": "10.3.1",
+    "telegraf": "4.16.3"
+  }
+}
